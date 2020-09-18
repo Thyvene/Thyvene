@@ -1,6 +1,6 @@
 ### Hi there, I'm Thyvene 👋
 
-## I'm a Student and apprentice Developer !
+## I'm an IT engineering Student!
 - 🔭 I’m currently studying at [EPITECH][Epitech]
 - 🌱 I’m currently learning C/C++, C# and everything related to Unity Engine
 - 👯 I’m looking for an internship
