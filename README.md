@@ -3,7 +3,6 @@
 ## I'm an IT engineering Student!
 - 🔭 I’m currently studying at [EPITECH][Epitech]
 - 🌱 I’m currently learning C/C++, C# and everything related to Unity Engine
-- 👯 I’m looking for an internship
 - ⚡ Fun fact: I love to listen epic music -> Here a sound that [I really like](https://www.youtube.com/watch?v=GB-xdivANow)
 
 
