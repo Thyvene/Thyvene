@@ -1,16 +1,12 @@
 ### Hi there, I'm Thyvene 👋
 
-## I'm an IT engineering Student!
-- 🔭 I’m currently studying at [EPITECH][Epitech]
 - 🌱 I’m currently learning C/C++, C# and everything related to Unity Engine
-- ⚡ Fun fact: I love to listen epic music -> Here a sound that [I really like](https://www.youtube.com/watch?v=GB-xdivANow)
-
+- ⚡ Fun fact: I love to listen epic music -> Here a sound that [I really like](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="https://nws.vance-corp.com/index.html" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Thyvene | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Thyvene | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]<- **Thyvene#8844**
 
