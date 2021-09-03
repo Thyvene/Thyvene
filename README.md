@@ -30,8 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyvene&theme=radical&layout=compact)](https://github.com/Thyvene)
 <img align="left" alt="Thyvene's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Thyvene&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 
-[website]: https://nws.vance-corp.com/index.html
 [linkedin]: https://www.linkedin.com/in/karim-e-278680134/
-[discord]: thyvene#8844
+[discord]: thyvene#8131
 [aboutme]: https://nws.vance-corp.com/about.html
-[Epitech]: https://www.epitech.eu/en/
