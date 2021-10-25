@@ -1,8 +1,5 @@
 ### Hi there, I'm Thyvene 👋
 
-- 🌱 I’m currently learning C/C++, C# and everything related to Unity Engine
-- ⚡ Fun fact: I love to listen epic music -> Here a sound that [I really like](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ---
 
 ### Connect with me:
