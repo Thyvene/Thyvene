@@ -24,7 +24,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyvene&theme=radical&layout=compact)](https://github.com/Thyvene)
-<img align="left" alt="Thyvene's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Thyvene&theme=radical&show_icons=true&hide_border=true&count_private=true" />
 
 [linkedin]: https://www.linkedin.com/in/karim-e-278680134/
 [discord]: thyvene#8131
