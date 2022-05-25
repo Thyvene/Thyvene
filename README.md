@@ -31,7 +31,7 @@
 
 ---
 
-| <a href="https://github.com/Thyvene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thyvene&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Skewmos's github stats" /></a> | <a href="https://github.com/Thyvene"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyvene&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a> |
+| <a href="https://github.com/Thyvene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Thyvene&count_private=true&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Thyvene's github stats" /></a> | <a href="https://github.com/Thyvene"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyvene&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a> |
 | ------------- | ------------- |
 
 [discord]: thyvene#8131
