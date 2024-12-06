@@ -1,5 +1,62 @@
+<h1 align="center">
+  👋 Hi, I'm a Thyvene
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/gamepad.svg" width="32" height="32" alt="gamepad" />
+</h1>
+
 <p align="center">
- 
-![Metrics](https://metrics.lecoq.io/thyvene?template=classic&languages=1&lines=1&activity=1&discussions=1&isocalendar=1&introduction=1&stars=1&achievements=1&people=1&notable=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Europe%2FBucharest)
-  
+  <strong>MMORPG Framework Developer | Game Architecture Specialist</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:karim09197270@hotmail.fr"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" width="24" height="24" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Thyvene"><img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" width="24" height="24" alt="GitHub"></a>
+</p>
+
+## 🎮 About Me
+
+I'm a passionate C++ Game Designer specializing in building robust MMORPG frameworks and game systems. Currently working on a comprehensive MMORPG Framework, focusing on high-performance networking and scalable architecture.
+
+## 🚀 Featured Projects
+
+### MMORPG Framework (Private)
+A scalable and modular C++ framework for building MMORPGs with advanced networking capabilities
+- 🔧 **Tech**: C++, MySQL Database Management, Network Programming, Game Architecture
+- 🛠️ **Tools**: Visual Studio
+
+### Game Server Infrastructure (Private)
+Highly available game server architecture with load balancing and automatic scaling
+- 🔧 **Tech**: C++, DevOps, Networking
+- 🛠️ **Tools**: Drone CI
+
+### Combat System Engine (Private)
+Real-time combat system with skill-based mechanics and network synchronization
+- 🔧 **Tech**: C++, Game Design, Physics
+- 🛠️ **Tools**: Visual Studio
+
+## 💻 Technical Skills
+
+```
+Game Development    │  Networking           │  Tools & IDE         │  Additional
+──────────────────────────────────────────────────────────────────────────────
+C++                 │  TCP/IP               │  Visual Studio      │  Game Design
+Game Architecture   │  UDP                  │  Drone CI           │  Performance Optimization
+Physics Engines     │  Network Programming  │  Git                │  Multithreading
+Graphics Programming│  Client-Server        │  CMake              │  Design Patterns 
+```
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thyvene&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+## 📫 Get in Touch
+
+- 📧 Email: karim09197270@hotmail.fr
+- 📍 Location: Alsace, France
+
+---
+
+<p align="center">
+  <i>Crafting immersive MMORPG experiences</i>
 </p>
