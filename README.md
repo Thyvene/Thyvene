@@ -36,7 +36,7 @@ Real-time combat system with skill-based mechanics and network synchronization
 ## 💻 Technical Skills
 
 ```
-Game Development    │  Networking           │  Tools & IDE         │  Additional
+Game Development    │  Networking           │  Tools & IDE        │  Additional
 ──────────────────────────────────────────────────────────────────────────────
 C++                 │  TCP/IP               │  Visual Studio      │  Game Design
 Game Architecture   │  UDP                  │  Drone CI           │  Performance Optimization
