@@ -47,7 +47,7 @@ Graphics Programming│  Client-Server        │  CMake              │  Desig
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thyvene&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-three-20.vercel.app/api?username=thyvene&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ## 📫 Get in Touch
