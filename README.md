@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>MMORPG Framework Developer | Game Architecture Specialist</strong>
+  <strong>MMORPG Framework Developer | Game Designer</strong>
 </p>
 
 <p align="center">
